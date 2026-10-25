@@ -1,0 +1,6 @@
+{
+  "name": "Legend AI Assistant",
+  "description": "An intelligent conversational AI assistant like ChatGPT with multimodal vision, real-time web search, interactive charts, and rich code execution preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
